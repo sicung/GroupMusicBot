@@ -107,7 +107,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="🔊 Channel",
-                        url="https://t.me/Infinity_BOTs")
+                        url="https://t.me/sakitbetdah")
                    
                 ]
             ]
@@ -133,7 +133,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="🔊 Channel",
-                            url=f"https://t.me/Infinity_BOTs")
+                            url=f"https://t.me/sakitbetdah")
 
                     ]
                 ]
@@ -161,7 +161,7 @@ async def play(_, message: Message):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Watch On YouTube 🎬",
+                                text="⚡Jain Group⚡",
                                 url=f"{url}")
 
                         ]
@@ -176,7 +176,7 @@ async def play(_, message: Message):
                     [
                         [
                             InlineKeyboardButton(
-                                text="JOIN GROUP",
+                                text="⚡JOIN GROUP⚡",
                                 url=f"https://t.me/TemanGabut2")
 
                         ]
@@ -223,7 +223,7 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Watch On YouTube 🎬",
+                            text="⚡Join Group⚡",
                             url=f"{url}")
 
                     ]
